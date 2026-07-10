@@ -96,7 +96,7 @@ elif page == "Page 3 — Anomaly Report":
     st.dataframe(anomaly_table.reset_index(drop=True), use_container_width=True)
 
 # ---------------- PAGE 4: PRODUCT DEMAND SEGMENTS ----------------
-elif page == "Page 4 — Product Demand Segments":
+elif page == "Page 4 — Demand Segments":
     st.title("🎯 Product Demand Clustering Segmentation")
     
     np.random.seed(42)
