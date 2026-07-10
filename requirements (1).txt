@@ -3,6 +3,3 @@ pandas
 numpy
 plotly
 scikit-learn
-statsmodels
-prophet
-xgboost
